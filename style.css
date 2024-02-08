@@ -61,7 +61,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(/doc_figma/Home-y.png);
+  background-image: url(./doc_figma/Home-y.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 400px;
@@ -74,7 +74,7 @@ section {
 }
 
 .img-center {
-  background-image: url(/doc_figma/logo_make_11_06_2023_9.jpg);
+  background-image: url(./doc_figma/logo_make_11_06_2023_9.jpg);
   display: flex;
   flex-direction: column;
   justify-content: center;
